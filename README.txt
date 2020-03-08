@@ -1,0 +1,1 @@
+Just a simple test project to start learning RenPy and Git.
